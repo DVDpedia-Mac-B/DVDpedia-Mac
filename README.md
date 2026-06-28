@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.macupdate.com/products/14070/l/dvdpedia-logo.png?v=1636639863" width="100" alt="DVDpedia icon"/>
+  <img src="https://cdn.jim-nielsen.com/macos/512/dvd-player-2023-05-23.png?rf=1024" width="100" alt="DVDpedia icon"/>
 </p>
 <h1 align="center">DVDpedia</h1>
 <p align="center">Native movie and DVD collection management — done right on macOS.</p>
